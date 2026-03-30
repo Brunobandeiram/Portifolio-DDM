@@ -1,14 +1,15 @@
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
-### Descrição
-Descrever:
+### Objetivo, funções e mudanças
 
-- objetivo do aplicativo
-- como ele funciona
-- o que foi **modificado ou melhorado** em relação ao exemplo da apostila
+O objetivo do app é mostrar uma simples curiosidade por meio do um botão
 
-### Print das telas do Design
-Inserir imagens do **Design do aplicativo**.
+Ao clicar no botão "clique aqui" ele revela as curiosidades, e ao clicar no botão "limpar" ele tira as legendas para ser clicado novamente
+
+Em relação ao exemplo, este app possui mais legendas e cores diferentes
+
+### Print das tela
+Inserir imagens do **De.
 
 ### Print das telas dos Blocos
 Inserir imagens dos **blocos de programação**.
@@ -17,12 +18,13 @@ Inserir imagens dos **blocos de programação**.
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
-### Descrição
-Descrever:
+### Objetivos, funções e mudanças
 
-- objetivo do aplicativo
-- funcionamento
-- alterações feitas em relação à apostila
+O objetivo é alterar as cores do fundo, sem mudar a imagem de cima, e apagar estas cores de fundo para testar novamente
+
+Ele altera a cor do fundo ao clicar em cada botão com sua respectivas cores, e volta as opções de cores antes escolhidas
+
+Em relação ao exemplo este app possui mais opções para voltar para as cores antigas, e foi alterado a ordem dos botões
 
 ### Print das telas do Design
 
