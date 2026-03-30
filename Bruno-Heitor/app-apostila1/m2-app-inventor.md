@@ -1,11 +1,12 @@
 # Projeto 1 – Primeiro Aplicativo (pg. 27)
 
-### Descrição
-Descrever:
+### Objetivo, função e mudanças
 
-- objetivo do aplicativo
-- como ele funciona
-- o que foi **modificado ou melhorado** em relação ao exemplo da apostila
+O objetivo do app é mostrar uma simples curiosidade por meio do um botão
+
+Ao clicar no botão "clique aqui" ele revela as curiosidades, e ao clicar no botão "limpar" ele tira as legendas para ser clicado novamente
+
+Em relação ao exemplo, este app possui mais legendas, curiosidades e cores diferentes
 
 ### Print das telas do Design
 <img width="1365" height="635" alt="app1-Frente" src="https://github.com/user-attachments/assets/62d6fc99-a1f7-4230-a43f-16396d076348" />
@@ -18,12 +19,13 @@ Descrever:
 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
-### Descrição
-Descrever:
+### Objetivos, função e mudanças
 
-- objetivo do aplicativo
-- funcionamento
-- alterações feitas em relação à apostila
+O objetivo é alterar as cores do fundo, sem mudar a imagem de cima, e apagar estas cores de fundo para testar novamente
+
+Ele altera a cor do fundo ao clicar em cada botão com sua respectivas cores, e volta as opções de cores antes escolhidas
+
+Em relação ao exemplo este app possui mais opções para voltar para as cores antigas, e foi alterado a ordem dos botões
 
 ### Print das telas do Design
 <img width="1365" height="579" alt="app2-Frente" src="https://github.com/user-attachments/assets/53f35333-75fd-4342-8464-86df7324d015" />
